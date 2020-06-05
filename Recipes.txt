@@ -6,5 +6,14 @@ spinach
 mango
 chicken
 
+beans 
+archar
+
 thnk you
+
+
+made my changes
+
+
 Done
+
